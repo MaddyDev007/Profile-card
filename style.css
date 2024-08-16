@@ -78,7 +78,10 @@ li, h4{
 }
 .p{
     font-size: 10px;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
+}
+.bold{
+  font-weight: bold;
 }
 @media (max-width: 400px) {
     .container{
